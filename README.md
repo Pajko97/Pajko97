@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [pavlej.com](pavlej.com)
+- 👨‍💻 All of my projects are available at [pavlejanjusevic.com](pavlejanjusevic.com)
 
-- 📝 I regularly write articles on [pavlej.com/blog](pavlej.com/blog)
+- 📝 I regularly write articles on [dev.to/pajko97](dev.to/pajko97)
 
 - 📫 How to reach me **janjusevic.work@gmail.com**
 
