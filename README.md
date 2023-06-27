@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [pavlejanjusevic.com](pavlejanjusevic.com)
 
-- 📝 I regularly write articles on [dev.to/pajko97](dev.to/pajko97)
+- 📝 I regularly write articles on [dev.to/pajko97](https://dev.to/pajko97)
 
 - 📫 How to reach me **janjusevic.work@gmail.com**
 
