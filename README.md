@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavle Janjusevic</h1>
 <h3 align="center">Full stack software developer from Serbia</h3>
 
-- 🔭 I’m currently working on **OP Build**
+- 🔭 I’m currently working on **OP Build, ProSocial**
 
 - 🌱 I’m currently learning **Product Management, Software Architecture**
 
