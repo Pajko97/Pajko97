@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **OP Build, ProSocial**
 
-- 🌱 I’m currently learning **Product Management, Software Architecture**
+- 🌱 I’m currently learning **Software Architecture, CyberSecurity**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [pavlejanjusevic.com](pavlejanjusevic.com)
 
 - 📝 I regularly write articles on [dev.to/pajko97](https://dev.to/pajko97)
 
